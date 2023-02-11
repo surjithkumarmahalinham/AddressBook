@@ -1,0 +1,13 @@
+2.category name display
+3.description 100 words
+backend blogs edit and view page category name,desc
+backend adding tag remove
+category edit and seo hide	
+category link not working
+id to slug
+
+
+4.pagination
+
+
+
